@@ -26,17 +26,19 @@
 ### Octave
 * In music, an octave is the interval between one musical pitch and another with half or double its frequency.
 * The most important musical scales are typically written using eight notes, and the interval between the first and last 
-  notes is an octave. 
+  notes is an octave.
 * For example, the C major scale is typically written C D E F G A B C, the initial and final Cs being an octave apart.
+* There are 12 tones per octave.
+* The five tones that are in between the basic seven and are called "half-tones".
 
     ![](images/piano-keyboard-octave.png)
 
-### Keys on a Piano Keyboard
+### Piano Keyboard
+![](images/piano-keyboard-layout-1.png)
 * Keys
     - A modern piano has 52 white keys and 36 black keys for a total of 88 Keys.
-    - There are set of 2 black keys and 3 black keys
-    - The black keys are arranged in a pattern where there are two black keys then three black keys - then two again - 
-      then three and so on.
+    - The black keys are irregularly placed between white keys and are grouped in 3’s and 2’s.
+    - There are two black keys then three black keys - then two again - then three and so on.
 * Middle C
     - The C4 key is known as the middle C.
     - The tiny black arrow in the keyboard diagrams always indicates MIDDLE C or the C nearest the centre of a piano.
@@ -46,14 +48,20 @@
     - There are three keys in the "zero" octave at the very low end - `A0 A0# B0`.
     - There is one key in the last octave at the high end - `C8`.
 
-    ![](images/piano-keyboard-layout-1.png)
-* A black key can be a SHARP of the previous white key or FLAT of the next white key.
+* Sharps or Flats
+    - The black keys are known as either SHARPS (#) or FLATS (b).
+    - A black key can be a SHARP of the previous white key or FLAT of the next white key.
 
+    ![](images/sharp-or-flat-notes.png)
+* 88-Key Piano Keyboard
     ![](images/piano-keyboard-layout-2.jpg)
 
 ### Memory Notes
 * The C scale is always played without any sharps or flats.
-* The pattern of black and white keys on piano is repeated every 12 notes. 
+* Each scale contains the same 12 notes.
+* The pattern of black and white keys on piano is repeated every 12 notes.
+* The C keys are the keys to the left of the '2' black keys.
+* The F keys are the keys to left of the '3' black keys.
 
 ### TODO
-* None
+* Memorize the keys.
