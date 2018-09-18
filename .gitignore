@@ -1,0 +1,4 @@
+# Git Ignore Lists
+
+# Remove project files
+.idea/
