@@ -2,6 +2,3 @@
 
 ### Introduction
 ![](images/reading-music-introduction.png)
-
-### TODO
-* None

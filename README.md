@@ -1,5 +1,5 @@
 # MusicNotes2Myself
 
 ### About
-* An experiment
+* An experiment with music.
 

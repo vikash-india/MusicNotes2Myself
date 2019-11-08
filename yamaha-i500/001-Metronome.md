@@ -1,7 +1,7 @@
 # Description: Metronome on Yamaha i500
 
 ### References
-* Check [Metronome](../concepts/004-Metronome.md) for the metronome concepts.
+* Check [Metronome](../theory/004-Metronome.md) for the metronome concepts.
 
 ### Metronome on Yamaha i500
 * Use Metronome

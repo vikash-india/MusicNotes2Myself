@@ -86,6 +86,3 @@
 * The G keys are the keys in the MIDDLE of the FIRST TWO of the '3' black keys.
 * The A keys are the keys in the MIDDLE of the LAST TWO of the '3' black keys.
 * The B keys are the keys to RIGHT of the '3' black keys.
-
-### TODO
-* None

@@ -2,6 +2,3 @@
 
 ### References
 * TODO: [TODO](#)
-
-### TODO
-* None
