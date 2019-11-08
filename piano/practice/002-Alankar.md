@@ -10,6 +10,7 @@
 * Practise with Different Keyboard Voices
     - Piano Voice
     - Harmonium Voice
+* Practise with Different Metronomes
 
 ### Ornamentation 1
 * Right Hand
