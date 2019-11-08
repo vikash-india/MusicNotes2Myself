@@ -14,7 +14,7 @@
     - Solfège uses 7 notes to make a scale.
     - The seven notes are: `do, re, mi, fa, sol, la, and ti`. It includes sharpened notes of di, ri, fi, si, li and 
       flattened notes of te, le, se, me, ra.
-* Sargam for India Music
+* Sargam for Indian Music
     - Sargam is a solmization system used in Indian music.
     - Sargam uses 7 notes (called swaras) to make a scale.
     - The seven notes are: `Sa, Re, Ga, Ma, Pa, Dha, and Ni`.
