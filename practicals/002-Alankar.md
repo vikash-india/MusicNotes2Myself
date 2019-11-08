@@ -1,4 +1,4 @@
-# Description: Alankar or Ornamentation 
+# Description: Alankar or Ornamentation
 
 ### Hands and Fingers Mapping
 ![](images/fingers-to-key-mapping.jpg)
