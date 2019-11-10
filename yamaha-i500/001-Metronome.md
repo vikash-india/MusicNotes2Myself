@@ -24,7 +24,7 @@
         - The value specifies the length of 1 beat.  
     - Confirm the setting by playing the metronome.
     - Example:
-        - A time signature of 6/8. 
+        - A time signature of 6/8 means 6 beats of 1/8 duration. 
         - 6 is the number of beats per Measure. Set 6 in TimeSigN.
         - 8 is the the length of 1 beat. Set 08 in TimeSigD.
 * Set the Metronome Volume

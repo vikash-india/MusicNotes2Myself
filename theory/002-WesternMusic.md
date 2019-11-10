@@ -1,12 +1,12 @@
-# Description: Piano Keyboard
+# Description: Western Music
 
-### Musical Notes
+### Introduction
 * Musical Notes
     - A musical note (or just a note) is the pitch and duration of a sound. 
     - A note is also its representation in musical notation. Example ♪, ♩ etc.
     - Music notation systems have used letters of the alphabet for centuries. 
-    - The seven notes in alphabetical notation are: `A B C D E F G`.
-* Solmization 
+    - The seven notes in alphabetical notation are: `A B C D E F G` but starts from C instead of A.
+* Solmization
     - Solmization is a music system of attributing a distinct syllable to each note in a musical scale. 
     - Solfège and Sargam are two such solmization systems.
 * Solfège for Western Music
@@ -15,6 +15,7 @@
     - The seven notes are: `do, re, mi, fa, sol, la, and ti`. It includes sharpened notes of di, ri, fi, si, li and 
       flattened notes of te, le, se, me, ra.
 * Sargam for Indian Music
+    - SARGAM IS A MOVING SOLFEGE!
     - Sargam is a solmization system used in Indian music.
     - Sargam uses 7 notes (called swaras) to make a scale.
     - The seven notes are: `Sa, Re, Ga, Ma, Pa, Dha, and Ni`.
@@ -32,28 +33,3 @@
 * The five tones that are in between the basic seven and are called "half-tones".
 
 ![](images/piano-keyboard-octave.png)
-
-### Piano Keyboard
-![](images/piano-keyboard-layout-1.png)
-* Keys
-    - A modern piano has 52 white keys and 36 black keys for a total of 88 Keys.
-    - The black keys are irregularly placed between white keys and are grouped in 3’s and 2’s.
-    - There are two black keys then three black keys - then two again - then three and so on.
-* Middle C
-    - The C4 key is known as the middle C.
-    - The tiny black arrow in the keyboard diagrams always indicates MIDDLE C or the C nearest the centre of a piano.
-* Octaves
-    - There are 4 full octaves up from the middle C (C4).
-    - There are 3 full octaves down from the middle C (C4).
-    - There are three keys in the "zero" octave at the very low end - `A0 A0# B0`.
-    - There is one key in the last octave at the high end - `C8`.
-
-* Sharps or Flats
-    - The black keys are known as either SHARPS (#) or FLATS (b).
-    - A black key can be a SHARP of the previous white key or FLAT of the next white key.
-
-![](images/sharp-or-flat-notes.png)
-
-* 88-Key Piano Keyboard
-
-![](images/piano-keyboard-layout-2.jpg)
