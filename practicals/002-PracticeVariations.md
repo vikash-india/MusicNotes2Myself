@@ -1,14 +1,17 @@
 # Description: Practice Variations
 
 ### Practice Variations
+* Practise on Different Scales
+    - C Major Scale
+    - C# Major Scale
 * Practise With Different Hands
     - Right Hand
     - Left Hand
     - Both Hands
-* Practise with Different Metronomes
+* Practise With Different Metronomes
     - 60 BPM
     - 90 BPM
     - 120 BPM
-* Practise with Different Keyboard Voices
+* Practise With Different Keyboard Voices
     - Piano Voice
     - Harmonium Voice

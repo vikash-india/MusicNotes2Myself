@@ -1,4 +1,4 @@
-# Description: Alankar or Ornamentation Using White Keys Only
+# Description: Alankar or Ornamentation On C Major Scale
 
 ### Hands and Fingers Mapping
 ![](images/fingers-to-key-mapping.jpg)
@@ -12,7 +12,7 @@ Fingers :  1     2     3     1     2      3     4     5
 Avaroh  : SA    NI    DHA   PA    MA     GA    RE    SA
 Fingers : 5      4      3    2     1      3     2     1
 ```
-* Left Hand (CHECK)
+* Left Hand
 ```
 Aaroh   : SA    RE    GA    MA    PA    DHA    NI    SA
 Fingers :  5     4     3     2     1      3     2     1
