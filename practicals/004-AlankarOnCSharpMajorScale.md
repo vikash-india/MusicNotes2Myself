@@ -1,7 +1,9 @@
 # Description: Alankar or Ornamentation On C# Major Scale
 
-### Alankar On C# Major Scale
-![](images/saptak-using-black-and-white-keys.png)
+### C# Major Scale
+![](images/scale-c-sharp-major-scale.jpg)
+
+![](images/saptak-c-sharp-major-scale.png)
 
 ### Alankar 1
 * Right Hand
