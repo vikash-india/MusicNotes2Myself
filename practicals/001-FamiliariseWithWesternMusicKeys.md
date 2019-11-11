@@ -10,15 +10,15 @@
 * Grandmom uses Frontdoor while Aunt uses the Backdoor.
 * Memory Cue 1
 
-![](images/piano-keys-mnemonics-1.jpg)
+![](images/octave-keys-mnemonics-1.jpg)
 
 * Memory Cue 2
 
-![](images/piano-keys-mnemonics-2.jpg)
+![](images/octave-keys-mnemonics-2.jpg)
 
 * Memory Cue 3
 
-![](images/piano-keys-mnemonics-3.png)
+![](images/octave-keys-mnemonics-3.jpg)
 
 ### Mnemonics to Memorise Keys - Style 2
 * One scale contains 12 notes - 7 full notes in white keys and 5 half-notes in black keys in between those white keys. 

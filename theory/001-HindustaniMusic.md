@@ -23,6 +23,8 @@
 
 ![](images/hindustani-music-saptak-3-mandra-madhya-taar-saptak.png)
 
+![](images/hindustani-music-saptak-keys.png)
+
 * Saptak Variations of Male and Female 
 
 ![](images/hindustani-music-saptak-4-female-male-variations.png)
