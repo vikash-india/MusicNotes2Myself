@@ -31,3 +31,6 @@
     - Press the `Function` button.
     - Press the Category `<<` or `>>` to call up `MtrVol` (Function 062).
     - Rotate the dial to set the volume.
+
+### Note
+* None

@@ -1,6 +1,6 @@
-# Description: Practice Variations
+# Description: Practice Sessions
 
-### Practice Variations
+### Practice Sessions
 * Practise on Different Scales
     - C Major Scale
     - C# Major Scale
@@ -15,3 +15,7 @@
 * Practise With Different Keyboard Voices
     - Piano Voice
     - Harmonium Voice
+* Practise Keyboard Features
+    - Dual Voice
+    - Split Voice
+* Practise Keyboard Features
