@@ -13,6 +13,20 @@ sudo sh lilypond-2.18.2-1.linux-64.sh
 uninstall-lilypond
 ```
 
-### Set Default Directory
-* Go to Menu - Edit - Preferences - General Preferences - Default Directory.
-* Enter absolute path of this directory.
+### Write Lilypond Scripts in any Text Editor 
+Add the following code in a text file `test.ly`.
+```
+\version "2.18.2"
+{
+  c' e' g' e'
+}
+```
+
+### Compile the Lilypond Scripts
+```bash
+# Compile to a PDF
+lilypond test.ly
+
+# Compile to a PNG
+lilypond --format=png test.ly
+```
