@@ -1,8 +1,5 @@
 # Description: Alankar or Ornamentation On C Major Scale
 
-### C Major Scale
-![](images/scale-c-major-scale.png)
-
 ### Finger Numbering and Position
 ![](images/fingers-to-key-mapping.jpg)
 

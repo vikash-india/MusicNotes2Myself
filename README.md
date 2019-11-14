@@ -5,6 +5,7 @@
 
 ### References
 * [Metronome Online](https://www.metronomeonline.com/)
+* [Music Theory](https://www.basicmusictheory.com/)
 
 ### Online Resources
 * Yamaha Song Books for Different Digital Keyboards
