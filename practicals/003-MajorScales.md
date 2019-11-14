@@ -24,7 +24,7 @@ Aaroh   : SA    RE    GA    MA    PA    DHA    NI    SA
 Fingers :  5     4     3     2     1      3     2     1
 
 Avaroh  : SA    NI    DHA   PA    MA     GA    RE    SA
-Fingers : 1      2      3    4     5      3     2     1
+Fingers : 1      2      3    1     2      3     4     5
 ```
 
 ### C# / Db Major Scale
@@ -56,11 +56,21 @@ Fingers : 2      1      2    3     4      1     2     3
 
 * Right Hand
 ```
+Aaroh   : SA       RE    GA(T)    MA    PA    DHA    NI(T)    SA
+Fingers :  1        2        3     1     2      3        4     5
+
+
+Avaroh  : SA    NI(T)      DHA    PA    MA    GA(T)     RE    SA
+Fingers : 5         4        3     2     1        3      2     1
 
 ```
 * Left Hand
 ```
+Aaroh   : SA       RE    GA(T)    MA    PA    DHA    NI(T)    SA
+Fingers : 5         4        3     2     1        3      2     1
 
+Avaroh  : SA    NI(T)      DHA    PA    MA    GA(T)     RE    SA
+Fingers :  1        2        3     1     2      3        4     5
 ```
 
 ### Eb Major Scale
