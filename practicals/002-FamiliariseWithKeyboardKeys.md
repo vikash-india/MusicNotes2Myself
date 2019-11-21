@@ -1,6 +1,17 @@
-# Description: Familiarise Piano Keys
+# Description: Familiarise With Keyboard Keys
 
-### Familiarise Piano Keys Using Western Style Notation 
+### Indian Style Notation
+* Madhya Saptak
+
+![](images/saptak-2-madhya-saptak.png)
+* Taar Saptak
+
+![](images/saptak-3-taar-saptak.png)
+* Mandra Saptak
+
+![](images/saptak-1-mandra-saptak.png)
+
+### Western Style Notation
 * [Random Note Picker](https://random.bretpimentel.com/)
 
 ### Mnemonics to Memorise Keys - Style 1
