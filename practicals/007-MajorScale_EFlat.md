@@ -1,24 +1,10 @@
 # Description: E Flat Major Scale
 
 ### Introduction
-![](images/major-scale-04-e-flat-major-scale.png)
+![](images/major-scale-05-e-flat-major-scale.png)
 
 ### Single Octave
-* Right Hand
-```
-
-```
-* Left Hand
-```
-
-```
+![](images/major-scale-05-e-flat-major-scale-1-octave.jpg)
 
 ### Double Octave
-* Right Hand
-```
-
-```
-* Left Hand
-```
-
-```
+![](images/major-scale-05-e-flat-major-scale-2-octave.jpg)
