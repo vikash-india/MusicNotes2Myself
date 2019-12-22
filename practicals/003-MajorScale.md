@@ -11,4 +11,5 @@ Western     :  C     C#/Db     D     D#/Eb      E      F     F#/Gb      G      G
 
 ### Order to Learn Scales
 * C Major Scale - All white keys
-* G Major Scale - 1 black key 
+* G Major Scale - 1 black key
+ 

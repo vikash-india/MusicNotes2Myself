@@ -1,24 +1,12 @@
 # Description: F Major Scale
 
 ### Introduction
-![](images/major-scale-04-e-flat-major-scale.png)
+* The F Major scale has 1 extra flat key.
+
+![](images/major-scale-08-f-major-scale.png)
 
 ### Single Octave
-* Right Hand
-```
-
-```
-* Left Hand
-```
-
-```
+![](images/major-scale-08-f-major-scale-1-octave.jpg)
 
 ### Double Octave
-* Right Hand
-```
-
-```
-* Left Hand
-```
-
-```
+![](images/major-scale-08-f-major-scale-2-octave.jpg)

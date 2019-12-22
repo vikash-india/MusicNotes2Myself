@@ -1,6 +1,8 @@
 # Description: E Major Scale
 
 ### Introduction
+* The E Major scale has 4 extra sharp keys.
+
 ![](images/major-scale-06-e-major-scale.png)
 
 ### Single Octave

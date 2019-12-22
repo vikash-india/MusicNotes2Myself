@@ -1,6 +1,8 @@
 # Description: D Major Scale
 
 ### Introduction
+* The D Major scale has 2 extra sharp keys.
+
 ![](images/major-scale-04-d-major-scale.png)
 
 ### Single Octave

@@ -1,6 +1,8 @@
 # Description: C Major Scale
 
 ### Introduction
+* The C Major scale has 0 extra sharp keys.
+
 ![](images/major-scale-02-c-major-scale.png)
 
 ### Single Octave
