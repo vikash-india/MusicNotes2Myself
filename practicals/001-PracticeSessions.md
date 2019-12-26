@@ -1,19 +1,20 @@
 # Description: Practice Sessions
 
 ### Practice Sessions
-* Practise on Different Scales
-    - C Major Scale
-    - G Major Scale
-    - D Major Scale
-    - A Major Scale
-    - E Major Scale
-    - B Major Scale
-    - F Major Scale
-    - B Flat Major Scale
-    - E Flat Major Scale
-    - A Flat Major Scale
-    - D Flat Major Scale
-    - F Sharp or G Flat Major Scale
+* Practise Different Scales
+    - Major Scale
+        - C Major Scale
+        - G Major Scale
+        - D Major Scale
+        - A Major Scale
+        - E Major Scale
+        - B Major Scale
+        - F Major Scale
+        - B Flat Major Scale
+        - E Flat Major Scale
+        - A Flat Major Scale
+        - D Flat Major Scale
+        - F Sharp or G Flat Major Scale
 * Practise With Different Hands
     - Right Hand
     - Left Hand
@@ -38,3 +39,9 @@
     - Split Voice
 * Miscellaneous Exercises
     - Identify different instrument voices by listening.
+
+### Learn
+* Natural Minor Scales
+* Harmonic Minor Scales
+* Melodic Minor Scales
+
