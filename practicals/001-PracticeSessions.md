@@ -22,6 +22,7 @@
     - Ascending with Right Hand - Ascending with Left Hand - Descending with Right Hand - Descending with Left Hand.
     - Both Hands together - 1 Octave
     - Both Hands together - 2 Octaves
+* Practise Alankar on Different Scales
 * Practise With Different Rhythms
     - Time Signature of 1/4
         - Metronome of 60 BPM @ 1/4
@@ -41,6 +42,7 @@
     - Identify different instrument voices by listening.
 
 ### Learn
+* Alankar on different scales
 * Natural Minor Scales
 * Harmonic Minor Scales
 * Melodic Minor Scales
